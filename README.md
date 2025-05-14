@@ -1,4 +1,4 @@
-# Clean Architecture Template
+# shadow-wallet-manager-API
 
 What's included in the template?
 
